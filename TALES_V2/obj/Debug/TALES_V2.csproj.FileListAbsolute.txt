@@ -1,0 +1,87 @@
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\TALES_V2.exe.config
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\TALES_V2.exe
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\TALES_V2.pdb
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.AssemblyReference.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.Form1.resources
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.Properties.Resources.resources
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.GenerateResource.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.CoreCompileInputs.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.exe
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.pdb
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.exe.config
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\EntityFramework.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Asio.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Core.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Midi.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Wasapi.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.WinForms.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.WinMM.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\EntityFramework.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Asio.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Core.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Midi.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.Wasapi.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.WinForms.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\NAudio.WinMM.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\EXERCISES\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.Up2Date
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\TALES_V2.exe.config
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\TALES_V2.exe
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\TALES_V2.pdb
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\EntityFramework.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Asio.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Core.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Midi.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Wasapi.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.WinForms.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.WinMM.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\EntityFramework.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Asio.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Core.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Midi.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.Wasapi.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.WinForms.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\NAudio.WinMM.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Data.SQLite.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.AssemblyReference.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.exe.config
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.Form1.resources
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.Properties.Resources.resources
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.GenerateResource.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.CoreCompileInputs.cache
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.csproj.Up2Date
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.exe
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.pdb
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.Speech.dll
