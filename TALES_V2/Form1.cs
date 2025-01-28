@@ -7,7 +7,6 @@ using System.Windows.Forms;
 using Newtonsoft.Json.Linq;
 using NAudio.Wave;
 using System.Speech.Synthesis;
-//using Windows.s
 using System.Net.Http;
 using System.Threading;
 
@@ -26,22 +25,22 @@ namespace TALES_V2
         public Form1()
         {
             InitializeComponent();
+            tableLayoutPanel1.Dock = DockStyle.Fill;
             Size = new Size(1260, 600);
             MinimumSize = new Size(800, 500);
-            SetButtonColor(this, Color.BurlyWood);
-            taleListPnl.AutoScroll = false;
-            taleListPnl.VerticalScroll.Visible = false;
-            taleListPnl.HorizontalScroll.Visible = false;
 
             var sql = "SELECT * FROM 'Tales'";
+
             try
             {
+                // Converts database to objects
                 using (var con = new SQLiteConnection("Data Source=DATA/DataBase.db"))
                 {
                     con.Open();
                     using (var com = new SQLiteCommand(sql, con))
                     {
                         using (var r = com.ExecuteReader())
+                            // reads each row from database
                             while (r.Read())
                             {
                                 dataList.Add(new Data(r.GetInt32(0), r.GetString(1), r.GetString(2), r.GetString(3)));
@@ -72,17 +71,17 @@ namespace TALES_V2
             play = !play;
         }
 
-        private void btnVolume_Click(object sender, EventArgs e)
+        private void btnVol_Click(object sender, EventArgs e)
         {
             if (!mute)
             {   //mute
                 waveOutDevice.Volume = 0;
-                btnVolume.BackgroundImage = Properties.Resources.muteIcon;
+                btnVol.BackgroundImage = Properties.Resources.muteIcon;
             }
             else
             {   //unmute
                 waveOutDevice.Volume = 1;
-                btnVolume.BackgroundImage = Properties.Resources.volumeIcon;
+                btnVol.BackgroundImage = Properties.Resources.volumeIcon;
             }
             mute = !mute;
         }
@@ -97,7 +96,7 @@ namespace TALES_V2
             else
             {
                 lbGR_EN.Text = "EN";
-                btnLanguage.BackgroundImage= Properties.Resources.enIcon;
+                btnLanguage.BackgroundImage = Properties.Resources.enIcon;
                 //translate
             }
             language = !language;
@@ -155,6 +154,7 @@ namespace TALES_V2
                 }
             }
         }
+
         private void select_Click(dynamic sender, EventArgs e)
         {
             foreach (Item item in taleListPnl.Controls)
@@ -177,13 +177,7 @@ namespace TALES_V2
                 synthesizer.SetOutputToWaveFile("output.wav");
                 if (language)
                 {
-                    foreach (var voice in synthesizer.GetInstalledVoices())
-                    {
-                        //MessageBox.Show($" - {voice.VoiceInfo.Name}");
-                        var info = voice.VoiceInfo;
-                        MessageBox.Show($"Name: {info.Name}, Language: {info.Culture}, Gender: {info.Gender}");
-                    }
-                    //synthesizer.SelectVoice("Microsoft Stefanos");
+                    synthesizer.SelectVoice("Microsoft Stefanos");
                     string text = dataList[id].History;
                     if (text.Length > 500)
                     {
@@ -221,17 +215,6 @@ namespace TALES_V2
 
             btnPlay.BackgroundImage = Properties.Resources.playIcon;
             play = true;
-        }
-
-        private void SetButtonColor(Control b, Color c)
-        {
-            foreach(Control t in b.Controls)
-            {
-                if (t is Button o)
-                    o.BackColor = Color.BurlyWood;
-                else
-                    SetButtonColor(t, c);
-            }
         }
     }
 
