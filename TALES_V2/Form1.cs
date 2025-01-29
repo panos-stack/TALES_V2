@@ -85,8 +85,7 @@ namespace TALES_V2
             }
             mute = !mute;
         }
-
-        private void btnLanguage_Click(object sender, EventArgs e)
+        private void btnLanguage_Click_1(object sender, EventArgs e)
         {
             if (!language)
             {
@@ -104,6 +103,7 @@ namespace TALES_V2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            panel1.Visible = false;
             play = false;
             mute = false;
             language = false;
@@ -155,6 +155,13 @@ namespace TALES_V2
             }
         }
 
+        int time = 0;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (time <= 100)
+                label1.Text = time++.ToString() + "%";
+        }
+
         private void select_Click(dynamic sender, EventArgs e)
         {
             foreach (Item item in taleListPnl.Controls)
@@ -177,22 +184,32 @@ namespace TALES_V2
                 synthesizer.SetOutputToWaveFile("output.wav");
                 if (language)
                 {
-                    synthesizer.SelectVoice("Microsoft Stefanos");
+                    //synthesizer.SelectVoice("Microsoft Stefanos");
+                    //foreach (var voice in synthesizer.GetInstalledVoices())
+                    //{
+                    //    Console.WriteLine($"- {voice.VoiceInfo.Name}");
+                    //}
                     string text = dataList[id].History;
                     if (text.Length > 500)
                     {
-                        int s = text.Length / 500;
-                        int start = 0;
+                        MessageBox.Show(text.Length.ToString());
                         string txt = "";
-                        for (int i = 0; i <= s; i++)
+                        int l = text.Length / 500; 
+                        int t = text.Length / (l + 1);
+
+                        panel1.Visible = true;
+                        timer1.Interval = 100 / (l * 2);
+                        timer1.Enabled = true;
+                        for (int i = 0; i <= l; i++)
                         {
-                            int end = start + 499;
-                            if (end > text.Length)
-                                end = text.Length;  
-                            txt += await getTrans(defSourceLang, "el", text.Substring(start, end));
-                            start = end;
+                            string s = text.Substring(i * t, i == l? text.Length - (i * t): t);
+                            txt += await getTrans(defSourceLang, "el", s);
                             Thread.Sleep(2000);
                         }
+                        MessageBox.Show(txt.Length.ToString());
+                        timer1.Stop();
+                        time = 0;
+                        panel1.Visible = false;
                         synthesizer.Speak(txt);
                     }
                     else
