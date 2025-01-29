@@ -53,19 +53,20 @@ namespace TALES_V2
             {
                 Console.WriteLine("error " + ex.Message);
             }
-            //string t = await getTrans(defSourceLang, "el", data.Title);
         }
 
         private void btnPlay_Click(object sender, EventArgs e)
         {
             if (!play)
             {   //pause
-                waveOutDevice.Pause();
+                if (waveOutDevice != null)
+                    waveOutDevice.Pause();
                 btnPlay.BackgroundImage = Properties.Resources.pauseIcon;
             }
-            else
+            else 
             {   //play
-                waveOutDevice.Play();
+                if (waveOutDevice != null)
+                    waveOutDevice.Play();
                 btnPlay.BackgroundImage = Properties.Resources.playIcon;
             }
             play = !play;
@@ -75,12 +76,14 @@ namespace TALES_V2
         {
             if (!mute)
             {   //mute
-                waveOutDevice.Volume = 0;
+                if (waveOutDevice != null)
+                    waveOutDevice.Volume = 0;
                 btnVol.BackgroundImage = Properties.Resources.muteIcon;
             }
             else
             {   //unmute
-                waveOutDevice.Volume = 1;
+                if (waveOutDevice != null)
+                    waveOutDevice.Volume = 1;
                 btnVol.BackgroundImage = Properties.Resources.volumeIcon;
             }
             mute = !mute;
@@ -96,7 +99,6 @@ namespace TALES_V2
             {
                 lbGR_EN.Text = "EN";
                 btnLanguage.BackgroundImage = Properties.Resources.enIcon;
-                //translate
             }
             language = !language;
         }
@@ -109,6 +111,7 @@ namespace TALES_V2
             language = false;
             volume = 60;
 
+            // Make each Item on the table
             foreach (Data data in dataList)
             {
                 Item item = new Item(data.Id, data.Title, data.Category, taleListPnl.Width);
@@ -159,7 +162,7 @@ namespace TALES_V2
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (time <= 100)
-                label1.Text = time++.ToString() + "%";
+                label1.Text = (time++).ToString() + "%";
         }
 
         private void select_Click(dynamic sender, EventArgs e)
@@ -179,20 +182,15 @@ namespace TALES_V2
         {
             waveOutDevice?.Dispose();
             audioFileReader?.Dispose();
-            using (SpeechSynthesizer synthesizer = new SpeechSynthesizer())
+            using (var synthesizer = new SpeechSynthesizer())
             {
                 synthesizer.SetOutputToWaveFile("output.wav");
                 if (language)
                 {
                     //synthesizer.SelectVoice("Microsoft Stefanos");
-                    //foreach (var voice in synthesizer.GetInstalledVoices())
-                    //{
-                    //    Console.WriteLine($"- {voice.VoiceInfo.Name}");
-                    //}
                     string text = dataList[id].History;
                     if (text.Length > 500)
                     {
-                        MessageBox.Show(text.Length.ToString());
                         string txt = "";
                         int l = text.Length / 500; 
                         int t = text.Length / (l + 1);
@@ -206,7 +204,6 @@ namespace TALES_V2
                             txt += await getTrans(defSourceLang, "el", s);
                             Thread.Sleep(2000);
                         }
-                        MessageBox.Show(txt.Length.ToString());
                         timer1.Stop();
                         time = 0;
                         panel1.Visible = false;
@@ -228,9 +225,9 @@ namespace TALES_V2
             audioFileReader = new AudioFileReader("output.wav");
             waveOutDevice.Init(audioFileReader);
 
-            waveOutDevice.Play();
-
             btnPlay.BackgroundImage = Properties.Resources.playIcon;
+
+            waveOutDevice.Play();
             play = true;
         }
     }
@@ -282,15 +279,6 @@ namespace TALES_V2
             BackColor = Color.Transparent;
             Sid.BackColor = Color.Transparent;
             c.BackColor = Color.Transparent;
-        }
-    }
-
-    class Picture : PictureBox
-    {
-        public Picture(int id)
-        {
-            Width = 100;
-            Height = 100;
         }
     }
 

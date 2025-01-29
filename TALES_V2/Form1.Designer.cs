@@ -40,8 +40,8 @@
             this.btnBack = new System.Windows.Forms.Button();
             this.btnLanguage = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -88,6 +88,7 @@
             this.taleListPnl.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.taleListPnl.AutoScroll = true;
             this.taleListPnl.Location = new System.Drawing.Point(3, 3);
             this.taleListPnl.Name = "taleListPnl";
             this.tableLayoutPanel1.SetRowSpan(this.taleListPnl, 2);
@@ -168,7 +169,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPlay.BackColor = System.Drawing.Color.BurlyWood;
-            this.btnPlay.BackgroundImage = global::TALES_V2.Properties.Resources.pauseIcon;
+            this.btnPlay.BackgroundImage = global::TALES_V2.Properties.Resources.playIcon;
             this.btnPlay.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnPlay.Location = new System.Drawing.Point(189, 3);
             this.btnPlay.Name = "btnPlay";
@@ -215,16 +216,6 @@
             this.panel1.Size = new System.Drawing.Size(286, 273);
             this.panel1.TabIndex = 10;
             // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::TALES_V2.Properties.Resources.music;
-            this.pictureBox2.Location = new System.Drawing.Point(50, 8);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(200, 200);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -235,6 +226,16 @@
             this.label1.Size = new System.Drawing.Size(26, 29);
             this.label1.TabIndex = 1;
             this.label1.Text = "0";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::TALES_V2.Properties.Resources.music;
+            this.pictureBox2.Location = new System.Drawing.Point(50, 8);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(200, 200);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 0;
+            this.pictureBox2.TabStop = false;
             // 
             // timer1
             // 

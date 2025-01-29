@@ -85,3 +85,17 @@ C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALE
 C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.exe
 C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\obj\Debug\TALES_V2.pdb
 C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.Speech.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.ort.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\pkele\Desktop\ΠΑΝΕΠΙΣΤΗΜΙΟ\TALES_V2\TALES_V2\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
