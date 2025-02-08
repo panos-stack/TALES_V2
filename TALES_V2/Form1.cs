@@ -9,6 +9,9 @@ using NAudio.Wave;
 using System.Speech.Synthesis;
 using System.Net.Http;
 using System.Threading;
+using System.IO;
+using System.Data.Entity;
+using System.Diagnostics.Eventing.Reader;
 
 namespace TALES_V2
 {
@@ -28,11 +31,11 @@ namespace TALES_V2
             tableLayoutPanel1.Dock = DockStyle.Fill;
             Size = new Size(1260, 600);
             MinimumSize = new Size(800, 500);
+            var file = "DATA/DataBase.db";
 
-            var sql = "SELECT * FROM 'Tales'";
-
-            try
+            if (File.Exists(file)) 
             {
+                var sql = "SELECT * FROM 'Tales'";
                 // Converts database to objects
                 using (var con = new SQLiteConnection("Data Source=DATA/DataBase.db"))
                 {
@@ -49,10 +52,8 @@ namespace TALES_V2
                     }
                 }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine("error " + ex.Message);
-            }
+            else
+                MessageBox.Show("Ο φάκελος δεν βρέθηκε");
         }
 
         private void btnPlay_Click(object sender, EventArgs e)
@@ -132,7 +133,7 @@ namespace TALES_V2
                 // Δημιουργία πλήρους URL με τα query parameters
                 string requestUrl = $"{url}?q={Uri.EscapeDataString(text)}&langpair={sourceLang}|{targetLang}";
 
-                try
+                if (requestUrl != null)
                 {
                     // Κλήση της API
                     HttpResponseMessage response = await client.GetAsync(requestUrl);
@@ -150,11 +151,8 @@ namespace TALES_V2
                     // Εμφάνιση μόνο της μετάφρασης
                     return translatedText;
                 }
-                catch (Exception e)
-                {
-                    // Διαχείριση σφαλμάτων
-                    return $"Σφάλμα: {e.Message}";
-                }
+                else
+                    return "Κάποιο σφάλμα προέκυψε.";
             }
         }
 
@@ -187,7 +185,7 @@ namespace TALES_V2
                 synthesizer.SetOutputToWaveFile("output.wav");
                 if (language)
                 {
-                    //synthesizer.SelectVoice("Microsoft Stefanos");
+                    synthesizer.SelectVoice("Microsoft Stefanos");
                     string text = dataList[id].History;
                     if (text.Length > 500)
                     {
